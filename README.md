@@ -1,6 +1,6 @@
 # Beer-Shop-App
 
-<h5>Note :-</h5> this project is in Swift 5 Xcode 11.
+<h5>Note:-this project is in Swift 5 Xcode 11.</h5>
 
 Screen Shots
 
