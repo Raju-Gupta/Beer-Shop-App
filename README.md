@@ -1,4 +1,7 @@
 # Beer-Shop-App
+
+this project is in Swift 5 Xcode 11.
+
 Screen Shots
 
 Launch Screen:-
