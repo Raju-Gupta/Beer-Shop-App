@@ -1,0 +1,20 @@
+PODS:
+  - FCAlertView (1.4.0)
+  - IQKeyboardManagerSwift (6.5.2)
+
+DEPENDENCIES:
+  - FCAlertView
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - FCAlertView
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+  IQKeyboardManagerSwift: c75366f1f19590e8caeae45fcd5815c9289d6099
+
+PODFILE CHECKSUM: 39bdc7a419e7e2ca094837241eb5ca3abdb3d5c8
+
+COCOAPODS: 1.8.4
